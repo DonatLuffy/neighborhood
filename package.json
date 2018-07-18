@@ -3,11 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "ajv-keywords": "^3.2.0",
+    "escape-string-regexp": "^1.0.5",
     "google-maps-react": "^2.0.2",
     "react": "^16.4.1",
     "react-async-script-loader": "^0.3.0",
+    "react-bootstrap": "^0.32.1",
     "react-dom": "^16.4.1",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "sort-by": "^1.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
